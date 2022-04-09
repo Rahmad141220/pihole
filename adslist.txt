@@ -105,7 +105,7 @@
 0.0.0.0	dolohen.com
 0.0.0.0	downloadgot.com
 0.0.0.0	dqqulesm3pfse.cloudfront.net
-0.0.0.0	dubshub.com
+0.0.0.0	dubshub.com$script,third-party
 0.0.0.0	dulcetcgvcxr.com
 0.0.0.0	dzbx8qv1at614.cloudfront.net
 0.0.0.0	e93-apps.com
@@ -120,6 +120,18 @@
 0.0.0.0	find.magicadsroute.com
 0.0.0.0	flexterkita.com
 0.0.0.0	fnkyyrgraizy.com
+0.0.0.0	fonderreaders.info
+0.0.0.0	forumiklan.com
+0.0.0.0	gahhlbxdgw.com
+0.0.0.0	gjeyqtunbnap.com
+0.0.0.0	global.appnext.com
+0.0.0.0	go.mobifunworld.com
+0.0.0.0	googleadapis.l.google.com
+0.0.0.0	googleadservices.com
+0.0.0.0	googleads.g.doubleclick.net
+0.0.0.0	google-analytics.com
+0.0.0.0	googletagmanager.com
+0.0.0.0	googletagservices.com
 0.0.0.0	graph.accountkit.com
 0.0.0.0	graph.instagram.com
 0.0.0.0	greatwork.info
@@ -200,7 +212,7 @@
 0.0.0.0	mgid.com
 0.0.0.0	mobile.foma-ds.com
 0.0.0.0	mobile.pipe.aria.microsoft.com
-0.0.0.0	mrperfect.in
+0.0.0.0	mrperfect.in$script,third-party
 0.0.0.0	mybannermaker.com
 0.0.0.0	net-s-sof-t-open.site
 0.0.0.0	newopenx.detik.com
@@ -229,7 +241,7 @@
 0.0.0.0	pasariklanbaris.com
 0.0.0.0	paypopup.com
 0.0.0.0	pendekarqq.net
-0.0.0.0	pippio.com
+0.0.0.0	pippio.comcc
 0.0.0.0	play.leadzu.com
 0.0.0.0	pondokiklan.com
 0.0.0.0	popmyads.com
